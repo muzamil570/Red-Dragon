@@ -11,7 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇 𝐈𝐭'𝐬 𝐦𝐞 ๛ジ𝐖𝟔丨𝐒𝐀𝐋𝐌𝐀𝐍ツ😓
+global.alivemsg = `📤I am alive now😇
+ 𝐈𝐭'𝐬 𝐦𝐞 ๛ジ𝐖𝟔丨𝐒𝐀𝐋𝐌𝐀𝐍ツ😓
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -49,11 +50,11 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+923231582002']
 global.ownertag = '+923231582002' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.botname = '๛ジW6丨SALMANツ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "๛ジW6丨SALMANツ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '☛₊₉̈́₂̈́₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆̈́₅̈́☚' //
 
 //database
 global.premium = ['+923231582002'] //ur premium numbers
