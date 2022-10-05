@@ -49,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+923165860765']
-global.ownertag = '+923165860765' //your tag number
+global.ownertag = '+923120732519' //your tag number
 global.botname = '๛ジW6丨SALMANツ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "๛ジW6丨SALMANツ" // sticker author
@@ -57,7 +57,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '☛₊₉̈́₂̈́₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆̈́₅̈́☚' //
 
 //database
-global.premium = ['+923165860765'] //ur premium numbers
+global.premium = ['+923120732519'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
