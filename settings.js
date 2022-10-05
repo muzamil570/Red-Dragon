@@ -30,7 +30,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+923231582002'] // owner number
+global.vcardowner = ['+923165860765'] // owner number
 global.ownername = "𝐈𝐭'𝐬 𝐦𝐞 ๛ジ𝐖𝟔丨𝐒𝐀𝐋𝐌𝐀𝐍ツ😓" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -39,7 +39,7 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
@@ -48,8 +48,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+923231582002']
-global.ownertag = '+923231582002' //your tag number
+global.owner = ['+923165860765']
+global.ownertag = '+923165860765' //your tag number
 global.botname = '๛ジW6丨SALMANツ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "๛ジW6丨SALMANツ" // sticker author
@@ -57,7 +57,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '☛₊₉̈́₂̈́₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆̈́₅̈́☚' //
 
 //database
-global.premium = ['+923231582002'] //ur premium numbers
+global.premium = ['+923165860765'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
